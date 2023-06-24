@@ -16,48 +16,48 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Persona.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Libro.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Nodo.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ListaPersona.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="PersonaLibro.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Validaciones.cpp">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Imports.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Persona.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Libro.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Nodo.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ListaPersona.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PersonaLibro.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Validaciones.h">
-      <Filter>Archivos de encabezado</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
